@@ -1,0 +1,100 @@
+home_county,work_county,workers
+Austin,Harris,5326
+Austin,Other TX,5100
+Austin,Austin,3620
+Austin,Fort Bend,1239
+Austin,Waller,841
+Austin,Montgomery,511
+Austin,Brazoria,99
+Austin,Liberty,48
+Austin,Galveston,22
+Austin,Chambers,13
+Brazoria,Harris,89066
+Brazoria,Brazoria,49367
+Brazoria,Other TX,19287
+Brazoria,Fort Bend,9464
+Brazoria,Galveston,8979
+Brazoria,Montgomery,2583
+Brazoria,Chambers,640
+Brazoria,Liberty,294
+Brazoria,Waller,271
+Brazoria,Austin,115
+Chambers,Harris,14188
+Chambers,Other TX,4437
+Chambers,Chambers,4176
+Chambers,Montgomery,696
+Chambers,Galveston,641
+Chambers,Fort Bend,536
+Chambers,Brazoria,411
+Chambers,Liberty,343
+Chambers,Waller,51
+Chambers,Austin,12
+Fort Bend,Harris,239729
+Fort Bend,Fort Bend,94756
+Fort Bend,Other TX,50515
+Fort Bend,Brazoria,8882
+Fort Bend,Montgomery,6066
+Fort Bend,Galveston,2930
+Fort Bend,Waller,2696
+Fort Bend,Austin,812
+Fort Bend,Chambers,554
+Fort Bend,Liberty,270
+Galveston,Harris,71611
+Galveston,Galveston,62808
+Galveston,Other TX,16834
+Galveston,Brazoria,8005
+Galveston,Fort Bend,3204
+Galveston,Montgomery,2253
+Galveston,Chambers,1022
+Galveston,Liberty,298
+Galveston,Waller,195
+Galveston,Austin,92
+Harris,Harris,1584454
+Harris,Other TX,219752
+Harris,Fort Bend,95396
+Harris,Montgomery,74305
+Harris,Brazoria,30078
+Harris,Galveston,29529
+Harris,Chambers,9455
+Harris,Waller,9350
+Harris,Liberty,4261
+Harris,Austin,1611
+Liberty,Harris,19351
+Liberty,Other TX,7996
+Liberty,Liberty,6609
+Liberty,Montgomery,3362
+Liberty,Chambers,1264
+Liberty,Fort Bend,1077
+Liberty,Galveston,729
+Liberty,Brazoria,618
+Liberty,Waller,114
+Liberty,Austin,33
+Montgomery,Harris,146560
+Montgomery,Montgomery,100451
+Montgomery,Other TX,46575
+Montgomery,Fort Bend,8195
+Montgomery,Brazoria,2775
+Montgomery,Galveston,2416
+Montgomery,Liberty,1988
+Montgomery,Waller,1107
+Montgomery,Chambers,629
+Montgomery,Austin,348
+Other TX,Harris,333539
+Other TX,Montgomery,42160
+Other TX,Fort Bend,29671
+Other TX,Brazoria,16264
+Other TX,Galveston,12878
+Other TX,Waller,4372
+Other TX,Chambers,4030
+Other TX,Liberty,4002
+Other TX,Austin,2655
+Waller,Harris,13362
+Waller,Other TX,4811
+Waller,Waller,3440
+Waller,Fort Bend,2309
+Waller,Montgomery,1645
+Waller,Austin,396
+Waller,Brazoria,203
+Waller,Galveston,154
+Waller,Liberty,66
+Waller,Chambers,42

@@ -1,0 +1,21 @@
+home_county,h_tract,work_county,w_tract,work_center,workers,miles
+Harris,48201542902,Fort Bend,48157673108,Rest of MSA,1012,4.5
+Fort Bend,48157673202,Fort Bend,48157673108,Rest of MSA,848,5.0
+Chambers,48071710202,Chambers,48071710100,Rest of MSA,649,5.4
+Fort Bend,48157674507,Harris,48201313102,Texas Medical Center,551,15.3
+Galveston,48167724200,Galveston,48167724300,Rest of MSA,549,0.6
+Harris,48201543007,Harris,48201551705,Rest of MSA,505,7.3
+Galveston,48167723300,Galveston,48167724300,Rest of MSA,476,18.5
+Waller,48473680100,Fort Bend,48157673108,Rest of MSA,457,3.0
+Harris,48201334101,Harris,48201313102,Texas Medical Center,455,3.5
+Fort Bend,48157673201,Fort Bend,48157673108,Rest of MSA,451,2.6
+Harris,48201314003,Harris,48201313102,Texas Medical Center,443,1.3
+Fort Bend,48157670903,Harris,48201313102,Texas Medical Center,436,13.2
+Chambers,48071710201,Harris,48201253202,Rest of MSA,428,5.7
+Brazoria,48039660605,Harris,48201313102,Texas Medical Center,413,9.8
+Harris,48201542902,Harris,48201313102,Texas Medical Center,413,25.1
+Fort Bend,48157670700,Harris,48201313102,Texas Medical Center,409,10.6
+Harris,48201543004,Harris,48201551705,Rest of MSA,406,9.5
+Fort Bend,48157674504,Harris,48201313102,Texas Medical Center,398,17.3
+Harris,48201413301,Harris,48201313102,Texas Medical Center,392,1.9
+Harris,48201543006,Harris,48201551705,Rest of MSA,382,7.5

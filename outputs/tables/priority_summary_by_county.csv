@@ -1,0 +1,10 @@
+county_name,tracts_screened,tracts_score3,tracts_score2plus,low_wage_residents_score3,pct_of_msa_low_wage_residents,pct_low_wage_25plus_mi_score3
+Harris,1114,32,112,16728,3.31,37.7
+Montgomery,133,16,71,8095,1.6,49.4
+Fort Bend,133,12,38,6407,1.27,37.9
+Galveston,101,9,32,5000,0.99,35.1
+Brazoria,77,10,41,4935,0.98,47.4
+Liberty,17,7,17,3894,0.77,67.2
+Chambers,7,3,6,2433,0.48,55.3
+Waller,11,2,10,1244,0.25,48.4
+Austin,8,2,8,968,0.19,64.4
