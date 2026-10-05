@@ -1,5 +1,7 @@
 # Houston Employment & Commute Analysis (Census LODES, 2010-2023)
 
+Repository: [Balavardhanreddy5872/TX-Employment-Trends](https://github.com/Balavardhanreddy5872/TX-Employment-Trends)
+
 **End-to-end data analytics project:** 450 MB of raw Census LEHD LODES8 block-level files → validated tract-level tables (Python) → SQLite star schema → 22 analytical SQL queries → static charts, choropleths and an interactive map → a policy recommendation.
 
 > **Business question:** *Where should the Houston region target workforce-access investment, given how its jobs and commutes have changed since 2010?*
